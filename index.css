@@ -1,0 +1,12 @@
+body {
+	background-image: url("normal.jpg")
+}
+
+#count {
+	text-align: center;
+	border-color: solid black;
+	border-width: 5px;
+	border-radius: 20px;
+	background-color: white;
+	font-size: 69px;
+}
