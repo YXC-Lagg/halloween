@@ -3,9 +3,13 @@ body {
 }
 
 #count {
-	text-align: center;
-   	border: 5px solid #000000;
+    text-align: center;
+    border: 5px solid #000000;
     border-radius: 20px;
     background-color: white;
     font-size: 69px;
+}
+
+h1 {
+	font-size: 30px;
 }
