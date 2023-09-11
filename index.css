@@ -4,9 +4,8 @@ body {
 
 #count {
 	text-align: center;
-	border-color: solid black;
-	border-width: 5px;
-	border-radius: 20px;
-	background-color: white;
-	font-size: 69px;
+   	border: 5px solid #000000;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 69px;
 }
